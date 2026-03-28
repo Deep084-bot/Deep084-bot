@@ -11,7 +11,8 @@
 
 🤝 **Looking to Collaborate On**
 - Music-tech projects (Generative art, audio-visual syncing)  
-- Open-source UI/UX libraries or developer tools  
+- Open-source UI/UX libraries or developer tools
+- Full stack projects
 
 🧠 **Currently Learning**
 - Advanced Data Structures & Algorithms  
