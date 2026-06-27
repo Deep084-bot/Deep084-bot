@@ -63,3 +63,4 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Deep084-bot&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Deep084-bot&label=Profile+Views&color=0e75b6&style=flat)
