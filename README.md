@@ -21,7 +21,7 @@ My interests lie at the intersection of **Retrieval-Augmented Generation (RAG)**
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect With Me!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://deepmehta-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deep-mehta-bot)
